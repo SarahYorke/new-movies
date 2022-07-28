@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: rgb(40, 224, 206);
+}
+#title{
+font-size: 67px; 
+color: rgb(232, 14, 123);
+}
+h1{
+    font-size: 45px;
+    color: darkorchid;
+}
+#buzz{
+    height: 316px;
+}
+#jones5{
+    height: 316px;
+}
+#sister{
+    height: 316px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(243, 72, 72);
+}
+span{
+    color: rgb(7, 7, 236);
+}
+.bed{
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: rgb(232, 152, 4);
+}
